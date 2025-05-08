@@ -1,0 +1,131 @@
+Logging started at 1746724496
+Spawned enemy: Orc1
+Spawned enemy: Wyvern1
+Spawned enemy: Undead1
+Orc1 receives 12 damage, HP now 48
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 90
+Orc1 receives 12 damage, HP now 36
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 80
+Orc1 receives 12 damage, HP now 24
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 70
+Orc1 receives 12 damage, HP now 12
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 60
+Orc1 is defeated!
+Adventurer restores 20 HP!
+Saved game state to game_state.txt
+Adventurer earns 50 XP!
+Game terminated.
+Logging started at 1746724541
+Spawned enemy: Orc1
+Spawned enemy: Wyvern1
+Spawned enemy: Undead1
+Orc1 receives 12 damage, HP now 48
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 90
+Orc1 receives 12 damage, HP now 36
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 80
+Orc1 receives 12 damage, HP now 24
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 70
+Orc1 receives 12 damage, HP now 12
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 60
+Orc1 is defeated!
+Saved game state to game_state.txt
+Adventurer earns 50 XP!
+Character loaded: Adventurer
+Loaded enemy: Wyvern1
+Loaded enemy: Undead1
+Loaded game state from game_state.txt
+Character loaded: Adventurer
+Loaded enemy: Wyvern1
+Loaded enemy: Undead1
+Loaded game state from game_state.txt
+Saved game state to game_state.txt
+Character loaded: Adventurer
+Loaded enemy: Wyvern1
+Loaded enemy: Undead1
+Loaded game state from game_state.txt
+Wyvern1 receives 5 damage, HP now 175
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer receives 25 damage, HP now 35
+Wyvern1 receives 5 damage, HP now 170
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer receives 25 damage, HP now 10
+Wyvern1 receives 5 damage, HP now 165
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer is defeated!
+Game terminated.
+Logging started at 1746726309
+Spawned enemy: Orc1
+Spawned enemy: Wyvern1
+Spawned enemy: Undead1
+Orc1 receives 12 damage, HP now 48
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 90
+Orc1 receives 12 damage, HP now 36
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 80
+Orc1 receives 12 damage, HP now 24
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 70
+Orc1 receives 12 damage, HP now 12
+Adventurer hits Orc1 for 12 damage!
+Adventurer receives 10 damage, HP now 60
+Orc1 is defeated!
+Adventurer earns 50 XP!
+Wyvern1 receives 5 damage, HP now 175
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer receives 25 damage, HP now 35
+Wyvern1 receives 5 damage, HP now 170
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer receives 25 damage, HP now 10
+Wyvern1 receives 5 damage, HP now 165
+Adventurer hits Wyvern1 for 5 damage!
+Adventurer is defeated!
+Game terminated.
+Лог начат в 1746726911
+Гоблин получает 15 урона, HP теперь 35
+Герой атакует Гоблин на 15 урона!
+Гоблин получает 10 урона, HP теперь 25
+Герой получает 50 опыта!
+Герой лечится на 20 HP!
+Герой добавил Меч в инвентарь.
+Герой добавил Щит в инвентарь.
+Герой удалил Меч из инвентаря.
+Гоблин был повержен!
+Лог начат в 1746727580
+Гоблин получает 15 урона, HP теперь 35
+Герой атакует Гоблин на 15 урона!
+Гоблин получает 10 урона, HP теперь 25
+Герой получает 50 опыта!
+Герой лечится на 20 HP!
+Герой добавил Меч в инвентарь.
+Герой добавил Щит в инвентарь.
+Герой удалил Меч из инвентаря.
+Гоблин был повержен!
+Лог начат в 1746727655
+Гоблин получает 15 урона, HP теперь 35
+Герой атакует Гоблин на 15 урона!
+Гоблин получает 10 урона, HP теперь 25
+Герой получает 50 опыта!
+Герой лечится на 20 HP!
+Герой добавил Меч в инвентарь.
+Герой добавил Щит в инвентарь.
+Герой удалил Меч из инвентаря.
+Гоблин был повержен!
+Лог начат в 1746727665
+Гоблин получает 15 урона, HP теперь 35
+Герой атакует Гоблин на 15 урона!
+Гоблин получает 10 урона, HP теперь 25
+Герой получает 50 опыта!
+Герой лечится на 20 HP!
+Герой добавил Меч в инвентарь.
+Герой добавил Щит в инвентарь.
+Герой удалил Меч из инвентаря.
+Гоблин был повержен!

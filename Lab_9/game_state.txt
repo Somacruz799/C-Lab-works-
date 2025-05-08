@@ -1,0 +1,4 @@
+Adventurer,60,20,10,1,0,0
+2
+Wyvern,Wyvern1,180,35,15
+Undead,Undead1,30,12,18

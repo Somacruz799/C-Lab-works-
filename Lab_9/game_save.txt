@@ -1,0 +1,5 @@
+Hero,100,45,10,1,0,2 Sword Shield
+3
+Skeleton,Skeleton1,40,10,15
+Skeleton,Skeleton2,40,10,15
+Lich,LichKing,600,35,25
